@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **React and Typescript projects**
 
-- 👨‍💻 All of my projects are available at [https://portfolio1-zeta-flame.vercel.app/](https://portfolio1-zeta-flame.vercel.app/)
+- 👨‍💻 All of my projects are available at https://pat-morojuoluwas-projects.vercel.app/
 
 - 💬 Ask me about **React js, Next js and Typescript**
 
