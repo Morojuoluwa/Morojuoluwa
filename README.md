@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Patrick Abimbola</h1>
-<h3 align="center">A result-oriented React front-end developer from lagos, Nigeria</h3>
+<h3 align="center">A result-oriented software engineer from lagos, Nigeria</h3>
 
-- 🌱 I’m currently learning **Node js and express js**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **React and Typescript projects**
 
